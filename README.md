@@ -7,4 +7,4 @@
 > [Nima Khademi Kalantari](http://nkhademi.com/)   
 > SIGGRAPH Asia 2023 (TOG)
 
-[Project](https://people.engr.tamu.edu/nimak/Papers/SIGAsia2023_Reshader) | [Paper]() | [Video](https://youtu.be/XW-tl48D3Ok)  
+[Project](https://people.engr.tamu.edu/nimak/Papers/SIGAsia2023_Reshader) | [Paper](https://arxiv.org/abs/2309.10689) | [Video](https://youtu.be/XW-tl48D3Ok)  
